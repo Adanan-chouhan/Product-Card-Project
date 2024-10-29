@@ -1,5 +1,5 @@
 body {
-   background-color:indianred;
+   background-color:darkslategrey;
 }
 
 
@@ -14,6 +14,7 @@ body {
     width: 300px;
     margin-top: 10px;
     border-radius: 10px;
+    background-color: white;
 }
 
 .cardContainer{
